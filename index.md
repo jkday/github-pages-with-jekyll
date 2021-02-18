@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Practice Social Credit Page
 
 I'm glad you are here. I plan to talk about ...
