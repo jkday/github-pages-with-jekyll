@@ -1,7 +1,8 @@
-First post info goes here...
-\nblah
-\nblah
-\nblah
+First post info goes here...  
+blah  
+blah  
+blah  
+
 ==========
 
 1) first
