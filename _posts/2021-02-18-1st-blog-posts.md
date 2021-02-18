@@ -1,5 +1,5 @@
 ---
-title: "Social Credit Site 1st Post"
+title: "Social-Credit-Site-1st-Post"
 date: 2021-02-18
 ---
 
